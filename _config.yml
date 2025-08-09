@@ -7,17 +7,24 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Natalia Zagata's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Natalia Zagata
+headline: Mechanical Engineering @ Purdue University
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Aspiring engineer with a love for creativity. A sophomore at Purdue University, I am pursuing mechanical engineering, as well as minors in Spanish and Global Engineering Studies through the GEARE Study Abroad program.
+
+I am interested in research and industry opportunities, having spent two semesters in fixed-wing aircraft research at Purdue's motion capture facility (PURT) and taking part in a selective pre-internship program at Argonne National Laboratory. 
+
+⚙️ Director of PR for Purdue’s Society of American Engineers
+⚙️ Vice President of the Polish Student Organization
+⚙️ Historian of the Tri-Alpha First-Generation Honor Society 
+⚙️ Autodesk Design & Make Ambassador
+
+My top five CliftonStrengths are: Learner, Competition, Achiever, Significance, Arranger
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
