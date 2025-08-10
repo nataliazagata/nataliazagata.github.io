@@ -35,8 +35,8 @@ resume-url: https://drive.google.com/file/d/1cvx8B-1Dpdkl521fO4pqIYNaX8aDEXAT/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/nataliazagata/    # https://www.linkedin.com/in/{your url slug} 
-  instragram: https://www.instagram.com/tinker_nat?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==      # https://instagram.com/{your url slug} 
+  linkedin: nataliazagata/    # https://www.linkedin.com/in/{your url slug} 
+  instragram: tinker_nat?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==      # https://instagram.com/{your url slug} 
   youtube:           # https://youtube.com/@{your url slug} in  
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
