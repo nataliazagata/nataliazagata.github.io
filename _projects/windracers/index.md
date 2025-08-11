@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Windracers Autonomous Flight Research
-description: Research at the Purdue UAS Research and Test Facility (motion capture facility) to create a scaled-down model of the Purdue Airport and the WindRacers (UK-based autonomous flight company) airplane
+description: Partnered with Windracers (UK-based UAV company) to develop autopilot systems for a self-flying cargo aircraft using scaled model. Utilized high precision motion-capture environment and designed custom component brackets using Siemens NX for aircraft models and simulations 
+
 skills: 
 - Siemens NX
-- Research Presentation 
+- Design for Manufacturing 
+- Research Presentation
+  
 main-image: /Image.jpg
 ---
 
 ### 3D Printed Bracket
 {% include image-gallery.html images="/bracket.png" height="400" %} 
-
-### Final Presentation 
-{% include src="_projects/windracers/Windracers Final Presentation.pdf" type="application/pdf" width="100%" height="600px" %}
