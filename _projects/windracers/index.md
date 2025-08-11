@@ -8,10 +8,8 @@ skills:
 main-image: /Image.jpg
 ---
 
----
-### Embeed images
+### 3D Printed Bracket
 {% include image-gallery.html images="/bracket.png" height="400" %} 
 
-### Embeed PDF
-<iframe src="[_projects/windracers/Windracers Final Presentation.pdf](https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/view?usp=sharing)" width="600" height="400"></iframe>
----
+### Final Presentation 
+<embed src="[_projects/windracers/Windracers Final Presentation.pdf](https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/view?usp=sharing)" type="application/pdf" width="100%" height="600px">
