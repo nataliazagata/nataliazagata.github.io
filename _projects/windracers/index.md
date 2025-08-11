@@ -11,5 +11,8 @@ skills:
 main-image: /Image.jpg
 ---
 
+### Research Poster
+{% include image-gallery.html images="/Screenshot 2025-08-11 185642.png" height="400" %} 
+
 ### 3D Printed Bracket
 {% include image-gallery.html images="/bracket.png" height="400" %} 
