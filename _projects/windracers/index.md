@@ -8,6 +8,6 @@ skills:
 main-image: /_project/windracers/Image.jpg
   {% include image-gallery.html images="_projects/windracers/bracket.png" %}
 
-  <iframe src="your-pdf-file.pdf" width="600" height="400"></iframe>
+  <iframe src="_projects/windracers/Windracers Final Presentation.pdf" width="600" height="400"></iframe>
 
 ---
