@@ -5,5 +5,5 @@ description: Research at the Purdue UAS Research and Test Facility (motion captu
 skills: 
 - Siemens NX
 - Research Presentation 
-main-image: /project.webp 
+main-image: /project/Image.jpg 
 ---
