@@ -6,6 +6,12 @@ skills:
 - Siemens NX
 - Research Presentation 
 main-image: /_project/windracers/Image.jpg
-  {% include image-gallery.html images="_projects/windracers/bracket.png" %}
-images: <iframe src="_projects/windracers/Windracers Final Presentation.pdf" width="600" height="400"></iframe>
+---
+
+---
+### Embeed images
+{% include image-gallery.html images="_projects/windracers/bracket.png" height="400" %} 
+
+### Embeed PDF
+<iframe src="_projects/windracers/Windracers Final Presentation.pdf" width="600" height="400"></iframe>
 ---
