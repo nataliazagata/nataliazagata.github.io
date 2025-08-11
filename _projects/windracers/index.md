@@ -12,4 +12,4 @@ main-image: /Image.jpg
 {% include image-gallery.html images="/bracket.png" height="400" %} 
 
 ### Final Presentation 
-<embed src="[_projects/windracers/Windracers Final Presentation.pdf](https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/view?usp=sharing)" type="application/pdf" width="100%" height="600px">
+<embed src="_projects/windracers/Windracers Final Presentation.pdf" type="application/pdf" width="100%" height="600px">
