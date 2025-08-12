@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fully 3D-Printed Airplane 
+title: Fully 3D-Printed Airplane (In-Progress)
 description: This two-part project aimed to create a fully 3D-printed, functional airplane. In the first phase, I printed and assembled pre-prepared airframe files, modifying electronics and structural components to accommodate resource constraints (see video below). In the second phase, I collaborated with ASME Aero to design fully custom wings with integrated ailerons in Fusion 360, ensuring proper fit and aerodynamic performance in coordination with teammate-designed tail and fuselage components. 
 
 skills: 
