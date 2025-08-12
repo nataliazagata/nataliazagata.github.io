@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Printed Airplane (ASME AERO) 
+title: Fully 3D-Printed Airplane (ASME AERO) 
 description: Partnered with Windracers (UK-based UAV company) to develop autopilot systems for a self-flying cargo aircraft using scaled model. Utilized high precision motion-capture environment and designed custom component brackets using Siemens NX for aircraft models and simulations 
 
 skills: 
@@ -11,12 +11,5 @@ skills:
 main-image: /IMG_2418.jpg
 ---
 
-### Research Poster
-{% include image-gallery.html images="/Screenshot 2025-08-11 185642.png" %} 
-
-### 3D Printed Bracket
-{% include image-gallery.html images="/bracket.png" height="400" %} 
-
-## Final Presentation 
-<iframe src="https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/preview" width="640" height="480" allow="autoplay"></iframe>
-
+### Airfoil & Aileron Wing Assembly 
+{% include image-gallery.html images="_projects/ASME_Aero/asme_aero_airfoil.png" %} 
