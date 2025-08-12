@@ -1,15 +1,24 @@
 ---
 layout: post
-title: Fully 3D-Printed Airplane (ASME AERO) 
-description: Partnered with Windracers (UK-based UAV company) to develop autopilot systems for a self-flying cargo aircraft using scaled model. Utilized high precision motion-capture environment and designed custom component brackets using Siemens NX for aircraft models and simulations 
+title: Fully 3D-Printed Airplane 
+description: This two-part project aimed to create a fully 3D-printed, functional airplane. In the first phase, I printed and assembled pre-prepared airframe files, modifying electronics and structural components to accommodate resource constraints (see video below). In the second phase, I collaborated with ASME Aero to design fully custom wings with integrated ailerons in Fusion 360, ensuring proper fit and aerodynamic performance in coordination with teammate-designed tail and fuselage components. 
 
 skills: 
-- Siemens NX
-- Design for Manufacturing 
-- Research Presentation
+- Autodesk Fusion
+- Electronics
+- Aerodynamics
+- 3D Printing
+- Testing & Iteration
+- Assembly & Fabrication
+- Project Managment 
   
 main-image: /IMG_2418.jpg
 ---
-
-### Airfoil & Aileron Wing Assembly 
+### Part 1: Completed Aircraft Showcase
+{% include youtube-video.html id="OBhf64n8VSA" autoplay= "false"%}
+---
+### Part 2: Airfoil & Aileron Wing Assembly 
 {% include image-gallery.html images="_projects/ASME_Aero/asme_aero_airfoil.png" %} 
+
+## Future Work
+Planned improvements include refining wing geometry for increased lift-to-drag efficiency, integrating lighter structural materials to improve flight time, and developing a fully custom fuselage to replace pre-prepared components. Additional goals include optimizing control surface responsiveness and conducting full-scale flight testing
