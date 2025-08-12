@@ -12,7 +12,10 @@ main-image: /Image.jpg
 ---
 
 ### Research Poster
-{% include image-gallery.html images="/Screenshot 2025-08-11 185642.png" height="400" %} 
+{% include image-gallery.html images="/Screenshot 2025-08-11 185642.png" %} 
 
 ### 3D Printed Bracket
 {% include image-gallery.html images="/bracket.png" height="400" %} 
+
+## Final Presentation 
+<embed src="https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/view?usp=sharing" width="500" height="375">
