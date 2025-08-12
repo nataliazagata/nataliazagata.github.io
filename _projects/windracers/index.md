@@ -18,4 +18,4 @@ main-image: /Image.jpg
 {% include image-gallery.html images="/bracket.png" height="400" %} 
 
 ## Final Presentation 
-<embed src="https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/view?usp=sharing" width="500" height="375">
+<iframe src="https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/preview" width="640" height="480" allow="autoplay"></iframe>
