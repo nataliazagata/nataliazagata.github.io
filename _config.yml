@@ -18,11 +18,9 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Aspiring engineer with a love for creativity. A sophomore at Purdue University, I am pursuing mechanical engineering, as well as minors in Spanish and Global Engineering Studies through the GEARE Study Abroad program.
   <br>
   I am interested in research and industry opportunities, having spent two semesters in fixed-wing aircraft research at Purdue's motion capture facility (PURT) and taking part in a selective pre-internship program at Argonne National Laboratory. 
-  <br/>
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/1751399475591.jpg
-
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
