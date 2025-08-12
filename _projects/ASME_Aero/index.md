@@ -18,7 +18,8 @@ main-image: /IMG_2418.jpg
 {% include youtube-video.html id="OBhf64n8VSA" autoplay= "false"%}
 ---
 ### Part 2: Airfoil & Aileron Wing Assembly 
-{% include image-gallery.html images="_projects/ASME_Aero/asme_aero_airfoil.png" %} 
-
+{% include image-gallery.html images="/asme_aero_airfoil.png" %} 
+---
+<br>
 ## Future Work
 Planned improvements include refining wing geometry for increased lift-to-drag efficiency, integrating lighter structural materials to improve flight time, and developing a fully custom fuselage to replace pre-prepared components. Additional goals include optimizing control surface responsiveness and conducting full-scale flight testing
