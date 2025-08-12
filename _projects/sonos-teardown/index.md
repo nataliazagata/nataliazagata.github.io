@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sonos Teardown
+title: Pathways to Physical Sciences: Capstone
 description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
 skills: 
   - drumel
@@ -11,6 +11,4 @@ skills:
 
 main-image: /sonos.png
 ---
-
-# This is another demo
 
