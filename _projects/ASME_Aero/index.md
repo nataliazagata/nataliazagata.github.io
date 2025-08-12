@@ -14,10 +14,10 @@ skills:
   
 main-image: /IMG_2418.jpg
 ---
-### Part 1: Completed Aircraft Showcase
+### **Part 1:** Completed Aircraft Showcase
 {% include youtube-video.html id="OBhf64n8VSA" autoplay= "false"%}
 ---
-### Part 2: Airfoil & Aileron Wing Assembly 
+### **Part 2:** Airfoil & Aileron Wing Assembly 
 {% include image-gallery.html images="/asme_aero_airfoil.png" %} 
 ---
 <br>
