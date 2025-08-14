@@ -11,6 +11,6 @@ description: Worked in a multidisciplinary team within a national lab environmen
   - UV-Vis spectrometry
   - Microscopy (optical / digital imaging)
 
-main-image: /sonos.png
+main-image: /argonne.jpeg
 ---
 
