@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Pathways to Physical Sciences: Capstone
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
-skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+description: Worked in a multidisciplinary team within a national lab environment to investigate the effect of pH on peptide–heme binding using automated laboratory systems. Applied engineering principles and gained proficiency in microscopy, UV-Vis spectrometry, doctor blade coating, and OpenTron robot programming. Delivered a technical capstone report integrating experimental results with collaborative research insights. 
+  - Interdisciplinary collaboration 
+  - Data analysis & interpretation
+  - Technical report writing & presentation
+  - Experimental design & testing
+  - Laboratory automation (OpenTron robot programming)
+  - Doctor blade coating techniques
+  - UV-Vis spectrometry
+  - Microscopy (optical / digital imaging)
 
 main-image: /sonos.png
 ---
