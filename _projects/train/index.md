@@ -8,7 +8,7 @@ skills:
 - Design for Manufacturing 
 - Research Presentation
   
-main-image: /Image.jpg
+main-image: /IMG_4560.jpg
 ---
 
 ### Research Poster
