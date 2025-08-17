@@ -11,12 +11,5 @@ skills:
 main-image: /IMG_4560.jpg
 ---
 
-### Research Poster
-{% include image-gallery.html images="/Screenshot 2025-08-11 185642.png" %} 
-
-### 3D Printed Bracket
-{% include image-gallery.html images="/bracket.png" height="400" %} 
-
-## Final Presentation 
-<iframe src="https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/preview" width="640" height="480" allow="autoplay"></iframe>
-
+### CAD File
+{% include image-gallery.html images="/train_assembly.png, train_front.png, train_side.png" %} 
