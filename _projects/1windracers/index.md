@@ -2,7 +2,7 @@
 layout: post
 title: Windracers Autonomous Flight Research
 description: Partnered with Windracers (UK-based UAV company) to develop autopilot systems for a self-flying cargo aircraft using scaled model. Utilized high precision motion-capture environment (Purdue UAS Research and Test Facility [PURT]) and designed custom component brackets using Siemens NX for aircraft models and simulations.
----
+
 skills: 
 - Siemens NX
 - Parametric modeling
