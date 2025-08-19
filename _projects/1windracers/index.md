@@ -17,9 +17,8 @@ main-image: /Image.jpg
 ## CAD
 ### 3D Printed Bracket for Custom PCB 
 {% include image-gallery.html images="/bracket.png" height="400" %} 
-<br>
+
 ---
-<br>
 ## Presentation 
 ### Research Poster
 {% include image-gallery.html images="/Screenshot 2025-08-11 185642.png" height="700" %} 
