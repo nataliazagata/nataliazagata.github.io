@@ -17,11 +17,11 @@ main-image: /Image.jpg
 ### 3D Printed Bracket for Custom PCB 
 {% include image-gallery.html images="/bracket.png" height="400" %} 
 <br>
-
+___
 ## Presentation 
 ### Research Poster
 {% include image-gallery.html images="/Screenshot 2025-08-11 185642.png" height="700" %} 
 <br>
-
+___
 ### Final Presentation 
 <iframe src="https://drive.google.com/file/d/1XKUTNDPQ-C2fN80IK_WuORRuiJR32nGV/preview" width="640" height="480" allow="autoplay"></iframe>
