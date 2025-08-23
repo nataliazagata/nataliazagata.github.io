@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 3D Printed Train Alarm Clock
-description: Designed and fabricated a custom alarm clock housed in a 3D-printed shell modeled in the shape of a truck. The enclosure was created using CAD software, optimized for printability, and fabricated with FDM 3D printing techniques. Integrated a soldered electronic clock kit inside the housing, ensuring proper alignment of components, secure mounting, and accessibility of controls. This project combined digital design, additive manufacturing, and hands-on electronics assembly. 
+title: Boilermaker Special Replica 
+In process of developing a detailed CAD assembly replicating Purdue’s iconic Boilermaker Special train. The project involves modeling individual components with attention to geometric accuracy, structural details, and realistic part interactions. The assembly focuses on parametric design, use of mates and constraints, and organization of a complex multi-part system. Future work includes incorporating functional wheels, drivetrain elements, and electronic components to simulate real train mechanisms, with the goal of enhancing both mechanical realism and potential prototyping capability
 
 skills: 
 - Fusion 360
 - Design for Manufacturing 
 - 3D Printing (FDM)
-- Electronics Assembly (Soldering)
 - Post Processing
 - Problem Solving & Iteration
+- Electronics
   
 main-image: /IMG_4560.jpg
 ---
