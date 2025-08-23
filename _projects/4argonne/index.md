@@ -7,12 +7,13 @@ skills:
   - Interdisciplinary collaboration 
   - Data analysis & interpretation
   - Technical report writing & presentation
-  - Experimental design & testing
+  - Experimental design 
   - Laboratory automation (OpenTron robot programming)
-  - Doctor blade coating techniques
+  - Doctor blade coating 
   - UV-Vis spectrometry
-  - Microscopy (optical / digital imaging)
+  - Microscopy
 
 main-image: /argonne.jpg
+
 ---
 
