@@ -11,7 +11,7 @@ skills:
 - Cable Management & Layout
 - Prototyping & Iteration
   
-main-image: /Image.jpg
+main-image: /image not to scale.png
 ---
 
 ### Research Poster
