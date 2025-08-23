@@ -1,12 +1,15 @@
 ---
 layout: post
-title: 3D Printed Train
-description: Partnered with Windracers (UK-based UAV company) to develop autopilot systems for a self-flying cargo aircraft using scaled model. Utilized high precision motion-capture environment and designed custom component brackets using Siemens NX for aircraft models and simulations 
+title: 3D Printed Train Alarm Clock
+description: Designed and fabricated a custom alarm clock housed in a 3D-printed shell modeled in the shape of a truck. The enclosure was created using CAD software, optimized for printability, and fabricated with FDM 3D printing techniques. Integrated a soldered electronic clock kit inside the housing, ensuring proper alignment of components, secure mounting, and accessibility of controls. This project combined digital design, additive manufacturing, and hands-on electronics assembly. 
 
 skills: 
-- Siemens NX
+- Fusion 360
 - Design for Manufacturing 
-- Research Presentation
+- 3D Printing (FDM)
+- Electronics Assembly (Soldering)
+- Post Processing
+- Problem Solving & Iteration
   
 main-image: /IMG_4560.jpg
 ---
